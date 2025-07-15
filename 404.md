@@ -4,5 +4,7 @@
 
 为了延续友链以及网上沟通，**新域名以及新邮箱账号将正式启用，若造成不便，敬请海涵。**
 
-1. 新域名：[kuri.ink](kuri.ink)
+博客新地址：[blog.kuri.ink](https://blog.kuri.ink/)
+
+1. 新域名：[kuri.ink](https://kuri.ink/)
 2. 新邮箱账号：[cl#kuri.ink](mailto:cl@kuri.ink)
